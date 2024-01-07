@@ -3,7 +3,7 @@
 }
 
 
-section{
+.first-header{
   background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner\ Image.png');
   background-repeat: no-repeat;
   background-size: cover;
@@ -32,5 +32,63 @@ justify-content: space-around;
     text-align: center;
     font-size: 82px;
     font-weight: 1000px;
+    line-height: 90px;
   }
   /* complete head section  */
+
+  .discount{
+    text-align: center;
+   
+    /* margin-top: 120px; */
+  }
+.off{
+  color: red;
+  font-size: 80px;
+  font-weight: 500px;
+  font-family: Inter;
+  
+}
+.holiday{
+  color: red;
+  font-size: 30px;
+  font-weight: 500px;
+ 
+
+}
+.all{
+  font-size: 48px;
+  font-weight: 700px;
+  
+}
+
+.party{
+  background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('Vectorrr.png');
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 800px;
+  /* padding-right: 140px;
+  padding-left: 140px; */
+  margin-left: 140px;
+  margin-right: 140px;
+  border-radius: 18px;
+}
+
+
+.description{
+color: #fff;
+padding-top: 126px;
+padding-left: 126px;
+
+}
+#mid{
+  font-size: 64px;
+  font-weight: 700px;
+  line-height: 80px;
+}
+#now{
+  font-size: 20px;
+  font-weight: 700px;
+  
+ 
+}
