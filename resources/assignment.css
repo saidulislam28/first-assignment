@@ -1,0 +1,36 @@
+
+*{font-family: Merriweather;
+}
+
+
+section{
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Banner\ Image.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+ padding: 210px;
+border-radius: 16px;
+  margin-right: 140px;
+  margin-left: 140px;
+  margin-top: 50px;
+}
+/* section{
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+} */
+
+.texty{
+  color: #fff;
+text-align: center;
+font-size: 32px;
+font-weight: 400px;
+/* padding: auto; */
+justify-content: space-around;
+
+}
+  .maxy{
+    color: #fff;
+    text-align: center;
+    font-size: 82px;
+    font-weight: 1000px;
+  }
+  /* complete head section  */
