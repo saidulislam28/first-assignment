@@ -181,27 +181,28 @@ line-height: 32px;
   background-color: black;
   color: white;
   height: 600px;
+  text-align: center;
   
 }
 
 .num{
-  text-align: right;
+  /* text-align: right; */
   font-size: 24px;
   font-weight: 600px;
 
 }
 .gmail{
-  text-align: right;
+  /* text-align: right; */
   font-size: 24px;
   font-weight: 600px;
 }
 .num-class{
-  padding-top: 100px;
-  padding-right: 250px;
+  /* padding-top: 100px; */
+  /* padding-right: 250px; */
 }
 #div-address{
-  text-align: left;
-  padding-left: 330px;
+  /* text-align: left; */
+  /* padding-left: 330px; */
  margin-top: 50px;
 
 font-size: 24px;
